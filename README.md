@@ -4,9 +4,11 @@
 
 Hey 👋🏼 
 
-You probably know by now, but we're The Verve Group and if you've made it this far, we’re guessing that you want to find out about our technology teams and how you can get involved. Fortunately, you're in the right place!
+You probably know by now, but we're The Verve Group. We're a financial services company based in Darlington and our vision is to change the face of finance. We want to provide financial planners, of all shapes and sizes, with the best support services around. We want to empower and enable them to focus on providing the ultimate service to their clients; while we take care of the rest with our technology.
 
-Our priority is our people, and providing an environment where people can learn, grow and thrive whilst working together to change the face of finance. We understand that no two people are the same, so it makes sense that no two roles are identical. With that in mind, whilst we'll begin to share what we’re looking for, and what a role here at The Verve Group could look like for you, this is just the beginning, and we’re keen to work with you to shape your career.
+If you've made it this far, we’re guessing that you want to find out about our technology teams and how you can get involved. Fortunately, you're in the right place!
+
+Our priority is our people and providing an environment where people can learn, grow and thrive whilst working together to change the face of finance. We understand that no two people are the same, so it makes sense that no two roles are identical. With that in mind, whilst we'll begin to share what we’re looking for, and what a role here at The Verve Group could look like for you, this is just the beginning and we’re keen to work with you to shape your career.
 
 ## Useful Links
 
