@@ -57,7 +57,7 @@ With your application in our inbox, we’d love to have a chat. This could be in
 
 ### 60 Minute Technical Challenge
 
-We don't like the word 'test' - it sounds very 'pass or fail'. In technology in particular, there are so many ways to achieve the same outcome for a task. What we're interested in is how you approach the task in the first place - your thought process and decision making. To begin to get an insight into this, we have a standard task that we ask anyone to take a look at and work on for 60 minutes, working with the public GitHub API. [You can even read the technical brief here](https://github.com/weareverve/join-us/blob/main/our-technical.md)- no surprises.
+We don't like the word 'test' - it sounds very 'pass or fail'. In technology in particular, there are so many ways to achieve the same outcome for a task. What we're interested in is how you approach the task in the first place - your thought process and decision making. To begin to get an insight into this, we have a standard task that we ask anyone to take a look at and work on for 60 minutes (you can do this whenever you like, there's no deadline or expectation that it's _exactly_ an hour), working with the public GitHub API. [You can even read the technical brief here](https://github.com/weareverve/join-us/blob/main/our-technical.md) - no surprises.
 
 Take a look at the task and begin to approach it using any language or technology you're comfortable with. Then, in a `README.md` file, make a note of your process and, if given more time, what you would explore next.
 
