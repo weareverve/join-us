@@ -10,12 +10,12 @@ Our technical isn't a pass or fail test - there's no right answer. What we're in
 
 ## The Challenge
 
-* Using PHP, interact with the open GitHub API to create a basic search tool with a front-end where the user can search for a GitHub account.
+* Interact with the open GitHub API to create a basic search tool with a front-end where the user can search for a GitHub account.
 * The return data should include information on the user and also list their 5 most-starred repositories.
 * The returned data should be presented in a way that is easy to read (i.e. a basic HTML front-end).
 * This should be able run as a web application (i.e. could be uploaded to a server and accessible via a URL) - we don’t expect you to actually put this on a server, we’d just like to see the code.
 
-You can use any frameworks, dependencies and packages that you would like to - we just ask that the core language used for interacting with the API is PHP.
+You can use any frameworks, dependencies and packages that you would like to - we just ask that the core language used for interacting with the API is PHP (this is preferable, but not mandatory).
 
 If you have time, please also consider __any three__ of the following (implementation is entirely optional, but your comments or ideas on how you could implement this with more time are definitely appreciated).
 
