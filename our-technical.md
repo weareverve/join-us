@@ -6,7 +6,7 @@
 
 There's only so much that anyone can put on a CV. Equally there's only so much that we can include in a role advert. More than anything, we're looking for problem solvers and those ready to roll their sleeves up and take on a challenge.
 
-Our technical isn't a pass or fail test - there's no right answer. What we're interested in is seeing how you approach a problem with limited time. How do you prioritise? How do you build an MVP? What would you look at with more time? The 60 minute technical tell us all this and more.
+Our technical isn't a pass or fail test - there's no right answer. What we're interested in is seeing how you approach a problem with limited time. How do you prioritise? How do you build an MVP? What would you look at with more time? The 60 minute technical tells us all this and more.
 
 ## The Challenge
 
