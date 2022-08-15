@@ -21,31 +21,31 @@ Throughout this doc, you'll find links to things like our application form and t
 
 We work predominantly on the LAMP stack and have a range of technologies in our toolbox. Whilst we wouldn't expect you to be familiar with them all, here's an idea of what you'll be working with:
 
-* PHP, using the likes of Laravel and Composer.
-* MySQL.
-* JavaScript, using frameworks like Vue.js.
+* PHP - we use Laravel as our preferred framework,
+* MySQL,
+* JavaScript - we use Vue 3 (specifically, the Composition API with `<script setup>`) as our preferred framework,
+* Testing - we use `phpunit` and Jest, coupled with automation.
 * REST APIs.
 
 At The Verve Group and as developers, we share a common goal of developing to make a difference, but each of us is different too. We have different strengths, aims and ideas. Here’s some of the additional skills and areas that you’ll experience as part of the team (if you’ve already got experience in some, great!);
 
-* Project Management.
-* Experience of MVC.
-* Understanding of Test Driven Development (TDD).
+* Project Management,
+* Experience of MVC,
+* Testing (manual and automated),
 * Ability to manage time and tasks.
 
 ## The Roles
 
-We operate a fairly standard structure of career progression across technology roles. For developers, that looks like:
+We're a hybrid working team and operate a fairly standard structure of career progression across technology roles. For developers, that looks like:
 
-| Role | Starting Salary | Top of Bracket | Office Days (per week) |
+| Role | Starting Salary | Top of Bracket | Office Days |
 |---|---|---|---|
-| Junior Web Developer | £21,000 | £27,000 | 3* |
-| Mid-level Web Developer | £28,000 | £36,000 | 2 |
-| Senior Web Developer | £37,000 | £45,000 | 1 |
+| Graduate Web Developer | £18,000 | £20,000 | 3 days per week* |
+| Junior Web Developer | £21,000 | £27,000 | 3 days per week* |
+| Mid-level Web Developer | £28,000 | £36,000 | 2 days per week |
+| Senior Web Developer | £37,000 | £45,000 | 1 day per month |
 
-__All of our roles include office time and are therefore hybrid (not remote).__
-
-_* Junior roles are subject to 6 months probation, where staff may be expected to work from the office more than three days per week._
+_* Graduate and Junior roles are subject to 6 months probation, where staff may be expected to work from the office more than three days per week. Monday is a mandatory office day for Graduate through to Mid-level roles._
 
 ## The Application Process
 
